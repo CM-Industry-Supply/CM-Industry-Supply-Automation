@@ -1,0 +1,2 @@
+# CM-Industry-Supply-Automation
+Programmable Logic Controller (PLC) Panels are a common component of control upgrades and automation projects in a wide variety of industries.  ESL has extensive experience with PLC Panels, building over 500 each year with a wide variety of designs and components. The team at ESL has developed and implemented time-tested procedures to minimize the chance of miswiring during the production stage. These procedures, along with detailed final QC, help to ensure all PLC panels are built correctly and meet customers’ expectations.
